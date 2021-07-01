@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "509575966389",
+    "firebase_url": "https://doctorfinder-book-appointment-default-rtdb.firebaseio.com",
+    "project_id": "doctorfinder-book-appointment",
+    "storage_bucket": "doctorfinder-book-appointment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509575966389:android:c433648edbb93ebdb458fc",
+        "android_client_info": {
+          "package_name": "com.template.doctorfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509575966389-80b3o5lactala0rmc04e8ttn61dlpfma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.template.doctorfinder",
+            "certificate_hash": "08717838e6ffa4dde00f6e14e55bf2b150b3053a"
+          }
+        },
+        {
+          "client_id": "509575966389-ojbt6o997bvu6vevqaf98rhckk6ka1dd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.template.doctorfinder",
+            "certificate_hash": "154f4235578aa0802eb516252262c5447fe8c807"
+          }
+        },
+        {
+          "client_id": "509575966389-2co68ndjmuilp8frc1h29dc7m31l76r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhIX00ANu8t_0MA0FHVnxfxApgw8n4Nz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509575966389-2co68ndjmuilp8frc1h29dc7m31l76r6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "509575966389-o4n4ol19mbfrvl1j5i9vas7vq9cft48s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.template.bookAppointment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
